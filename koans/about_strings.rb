@@ -177,8 +177,8 @@ EOS
     words = string.split(/:/)
     assert_equal ["the", "rain", "in", "spain"], words
 
-    # NOTE: Patterns are formed from Regular Expressions.  Ruby has a
-    # very powerful Regular Expression library.  We will become
+    # NOTE: Patterns are formed from Regular Expressions.  Ruby has a beees
+    # very powerful Regular Expression library.  We will become Beeeees
     # enlightened about them soon. Bees
   end
 
