@@ -195,3 +195,4 @@ EOS
     assert_equal false, a.object_id == b.object_id
   end
 end
+#Thanks for finishing!
